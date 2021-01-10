@@ -17,3 +17,5 @@ Camada para a regra de negócio da aplicação. Contendo as Entities, Interfaces
 Camada para dados e comunicação com o banco de dados. Contendo Data, EntityConfig e Repository.
 
 ![Organização das pastas no protejo](https://github.com/rafaelmmayer/Organizacao-DDD/blob/master/img/Pastas.PNG)
+
+Créditos: (Marcio Queiroz)[https://www.youtube.com/channel/UCHmbNyZ2_s77lI8LpCMP3eA]
