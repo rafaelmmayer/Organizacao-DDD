@@ -4,7 +4,7 @@ using System.Text;
 
 namespace DDD.AplicationCore.Interfaces
 {
-    interface ICliente
+    public interface ICliente
     {
     }
 }

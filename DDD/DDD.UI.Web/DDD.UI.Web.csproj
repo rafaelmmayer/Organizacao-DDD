@@ -13,4 +13,9 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.8" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\DDD.AplicationCore\DDD.AplicationCore.csproj" />
+    <ProjectReference Include="..\DDD.Infra\DDD.Infra.csproj" />
+  </ItemGroup>
+
 </Project>

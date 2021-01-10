@@ -4,7 +4,7 @@ using System.Text;
 
 namespace DDD.AplicationCore.Services
 {
-    class Service
+    public class Service
     {
     }
 }

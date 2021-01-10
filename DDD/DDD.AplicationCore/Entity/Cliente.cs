@@ -4,7 +4,17 @@ using System.Text;
 
 namespace DDD.AplicationCore.Entity
 {
-    class Cliente
+    public class Cliente
     {
+        public Cliente()
+        {
+
+        }
+
+        public string ClientId { get; set; }
+
+        public string Nome { get; set; }
+
+        public string CPF { get; set; }
     }
 }
